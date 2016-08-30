@@ -8,6 +8,6 @@ This is an experiment to see if there's any interest in funding what I otherwise
 
 1. :point_right: **Visit [Issues](https://github.com/taoeffect/tiny-bounties/issues)** :point_left:
 2. Read the mini-project's description, cost, and expected delivery time
-3. Click **"Post a bounty on it!"** to fund it. Mini-project's are started as soon as bounty=cost
+3. Click **"Post a bounty on it!"** to fund it. Work is started once bounty=cost
 
 *Guarantee: If I don't deliver on time, I don't collect the bounty.*
