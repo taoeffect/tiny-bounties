@@ -11,3 +11,7 @@ This is an experiment to see if there's any interest in funding what I otherwise
 3. Click **"Post a bounty on it!"** to fund it. Work begins once `bounty=cost`
 
 *Guarantee: If I don't deliver on time, I don't collect the bounty.*
+
+# Have an idea you'd like me to work on?
+
+Get [in touch](https://fixingtao.com/consulting/)! Maybe I'll like it enough to work on it. :)
