@@ -4,9 +4,10 @@ I [write](https://blog.okturtles.com) [a lot](https://fixingtao.com) [in my](htt
 
 But a lot of my thoughts/writings/software never sees the light of day simply because I don't have the time/resources to do a good job of polishing them for public consumption.
 
-This is an experiment to see if there's enough interest in some of **[these idea-projects](https://github.com/taoeffect/tiny-bounties/issues)** to free them from *just-in-greg's-brain-status*.
-
-### Steps
+This is an experiment to see if there's enough interest in some of **[these mini-projects](https://github.com/taoeffect/tiny-bounties/issues)** to free them from *just-in-greg's-brain-status*.
 
 1. :point_right: **Visit [Issues](https://github.com/taoeffect/tiny-bounties/issues) to see what's on the menu.** :point_left:
-2. Click on an issue and if you like it, click the link to **"Post a bounty on it!"** using *Bountysource*.
+2. Read the mini-project's description, cost, and expected delivery time.
+3. Click **"Post a bounty on it!"** to fund it. Mini-project's are started as soon as bounty=cost.
+
+*Guarantee: If I don't deliver on time, I don't collect the bounty.*
