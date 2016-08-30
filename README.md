@@ -1,4 +1,4 @@
-# tiny-bounties
+# Tiny bounties
 
 I [write](https://blog.okturtles.com) [a lot](https://fixingtao.com) [in my](https://gist.github.com/taoeffect) [spare](https://www.taoeffect.com/blog/) time and give away various knowledge/research/software.
 
