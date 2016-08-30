@@ -12,4 +12,4 @@ But a lot of my thoughts/writings/software never sees the light of day simply be
 
 This is an experiment to see if there's enough interest in some of **[these idea-projects](https://github.com/taoeffect/tiny-bounties/issues)** to free them from *just-in-greg's-brain-status*.
 
-:point-right: Visit `Issues` to see what's on the menu. :point-left:
+:point_right: Visit **[Issues](https://github.com/taoeffect/tiny-bounties/issues)** to see what's on the menu. :point_left:
