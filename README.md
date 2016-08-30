@@ -12,6 +12,4 @@ This is an experiment to see if there's any interest in funding what I otherwise
 
 *Guarantee: If I don't deliver on time, I don't collect the bounty.*
 
-#### Have some other idea you'd like me to work on?
-
-Get [in touch](https://fixingtao.com/consulting/)!
+#### Have some other idea you'd like me to work on? Get [in touch!](https://fixingtao.com/consulting/)
